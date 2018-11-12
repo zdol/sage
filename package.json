@@ -6,10 +6,10 @@
   "private": true,
   "repository": {
     "type": "git",
-    "url": "git://github.com/roots/sage.git"
+    "url": "git://github.com/zdol/sage.git"
   },
   "bugs": {
-    "url": "https://github.com/roots/sage/issues"
+    "url": "https://github.com/zdol/sage/issues"
   },
   "licenses": [
     {
